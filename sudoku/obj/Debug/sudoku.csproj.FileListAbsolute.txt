@@ -1,0 +1,11 @@
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.cache
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\mrfff\Desktop\c#\sudoku\sudoku\obj\Debug\sudoku.Form2.resources
